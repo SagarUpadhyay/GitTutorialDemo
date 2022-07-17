@@ -1,0 +1,4 @@
+*.log 
+/di/
+imp/di 
+db.accdb.docx
